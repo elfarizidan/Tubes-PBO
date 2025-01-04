@@ -1,3 +1,6 @@
+DOWNLOAD folder TUBES_PBO.zip dan file birojasa.sql
+
+
 Cara pasang file java ini ke netbeans di device kalian
 
 1. Unzip TUBES_PBO
